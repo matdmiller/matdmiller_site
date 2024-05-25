@@ -3,7 +3,14 @@ project:
 
 website:
   title: "matdmiller.com"
+  reader-mode: true
+  search: false
+  favicon: logo.png
+  twitter-card: true
+  site-url: https://matdmiller.com
+  open-graph: true
   navbar:
+    search: false
     left:
       - href: index.qmd
         text: Home
@@ -11,9 +18,19 @@ website:
         text: Blog
       - href: https://blog.matdmiller.com/about
         text: About
+    right: 
+      - icon: github
+        href: https://github.com/matdmiller
+      - icon: twitter 
+        href: https://twitter.com/matdmiller
+  page-footer: "Copyright 2024, Mat Miller"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
+theme:
+  light: flatly
+  dark: darkly
