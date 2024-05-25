@@ -1,6 +1,6 @@
 ---
 title: matdmiller.com
-subtitle: Mat Miller's site.
+subtitle: Mat Miller's site. Please check out my blog. More to come soon.
 #listing:
 #  sort: "date desc"
 #  contents: "posts"
