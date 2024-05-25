@@ -7,7 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: https://blog.matdmiller.com
+        text: Blog
+      - href: https://blog.matdmiller.com/about
+        text: About
 
 format:
   html:
