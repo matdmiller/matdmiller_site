@@ -1,3 +1,8 @@
 conda create --name nbdev python=3.12
 conda activate nbdev
 
+
+
+#running
+nbdev_export
+nbdev_preview --host 192.168.
