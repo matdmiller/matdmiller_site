@@ -1,3 +1,6 @@
+/.quarto/
+/_site/
+
 _docs/
 _proc/
 
@@ -149,3 +152,5 @@ checklink/cookies.txt
 
 # Quarto
 .quarto
+
+/.quarto/

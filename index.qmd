@@ -1,0 +1,12 @@
+---
+title: matdmiller.com
+subtitle: Mat Miller's site.
+#listing:
+#  sort: "date desc"
+#  contents: "posts"
+#  sort-ui: false
+#  filter-ui: false
+#  categories: true
+#  feed: true
+page-layout: full
+---

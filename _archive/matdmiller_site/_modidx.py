@@ -2,7 +2,7 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/matdmiller_site',
-                'doc_host': 'https://matdmiller.github.io',
+                'doc_host': 'https://matdmiller.com',
                 'git_url': 'https://github.com/matdmiller/matdmiller_site',
                 'lib_path': 'matdmiller_site'},
   'syms': {'matdmiller_site.core': {'matdmiller_site.core.foo': ('core.html#foo', 'matdmiller_site/core.py')}}}
