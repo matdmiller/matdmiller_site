@@ -1,12 +1,16 @@
 [
   {
-    "objectID": "core.html",
-    "href": "core.html",
-    "title": "core",
+    "objectID": "matdmiller_site.html",
+    "href": "matdmiller_site.html",
+    "title": "matdmiller.com",
     "section": "",
-    "text": "source\n\nfoo\n\n foo ()",
-    "crumbs": [
-      "core"
-    ]
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "matdmiller_site.html#quarto",
+    "href": "matdmiller_site.html#quarto",
+    "title": "matdmiller.com",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   }
 ]
