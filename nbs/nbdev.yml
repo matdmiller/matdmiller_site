@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "matdmiller_site"
+  site-url: "https://matdmiller.github.io/matdmiller_site"
+  description: "Repo for matdmiller.com"
+  repo-branch: main
+  repo-url: "https://github.com/matdmiller/matdmiller_site"
