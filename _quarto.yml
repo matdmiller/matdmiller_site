@@ -9,6 +9,7 @@ website:
   twitter-card: true
   site-url: https://matdmiller.com
   open-graph: true
+  google-analytics: "G-JPDLB55959"
   navbar:
     search: false
     left:
